@@ -32,37 +32,37 @@ buttonAnimation(event.key);
 function makeSound(key){
   switch (key) {
     case "q":
-      var kick = new Audio("sounds/606kick.WAV");
+      var kick = new Audio("sounds/606kick.wav");
       kick.play();
     break;
 
     case "w":
-      var snare = new Audio("sounds/606snare.WAV");
+      var snare = new Audio("sounds/606snare.wav");
       snare.play();
     break;
 
     case "e":
-      var lowtom = new Audio("sounds/606lotom.WAV");
+      var lowtom = new Audio("sounds/606lotom.wav");
       lowtom.play();
     break;
 
     case "r":
-      var hitom = new Audio("sounds/606hitom.WAV");
+      var hitom = new Audio("sounds/606hitom.wav");
       hitom.play();
     break;
 
     case "t":
-      var cymbal = new Audio("sounds/606cymbal.WAV");
+      var cymbal = new Audio("sounds/606cymbal.wav");
       cymbal.play();
     break;
 
     case "y":
-      var hhc = new Audio("sounds/606hhc.WAV");
+      var hhc = new Audio("sounds/606hhc.wav");
       hhc.play();
     break;
 
     case "u":
-      var hho = new Audio("sounds/606hho.WAV");
+      var hho = new Audio("sounds/606hho.wav");
       hho.play();
     break;
 
