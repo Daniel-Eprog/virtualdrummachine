@@ -57,7 +57,7 @@ function makeSound(key){
     break;
 
     case "y":
-      var rim = new Audio("sounds/909rimshot.WAV");
+      var rim = new Audio("sounds/909rimshot.wav");
       rim.play();
     break;
 
@@ -67,12 +67,12 @@ function makeSound(key){
     break;
 
     case "i":
-      var hho = new Audio("sounds/909hho.WAV");
+      var hho = new Audio("sounds/909HHO.WAV");
       hho.play();
     break;
 
     case "o":
-      var hhc = new Audio("sounds/909hhc.WAV");
+      var hhc = new Audio("sounds/909HHC.WAV");
       hhc.play();
     break;
 
