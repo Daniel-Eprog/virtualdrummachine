@@ -44,82 +44,82 @@ buttonAnimation(event.key);
 function makeSound(key){
   switch (key) {
     case "q":
-      var kick = new Audio("sounds/808kick.WAV");
+      var kick = new Audio("sounds/808kick.wav");
       kick.play();
     break;
 
     case "w":
-      var snare = new Audio("sounds/808snare.WAV");
+      var snare = new Audio("sounds/808snare.wav");
       snare.play();
     break;
 
     case "e":
-      var lotom = new Audio("sounds/808tomlo.WAV");
+      var lotom = new Audio("sounds/808tomlo.wav");
       lotom.play();
     break;
 
     case "r":
-      var midtom = new Audio("sounds/808tommid.WAV");
+      var midtom = new Audio("sounds/808tommid.wav");
       midtom.play();
     break;
 
     case "t":
-      var hitom = new Audio("sounds/808tomhi.WAV");
+      var hitom = new Audio("sounds/808tomhi.wav");
       hitom.play();
     break;
 
     case "y":
-      var congalo = new Audio("sounds/808congalo.WAV");
+      var congalo = new Audio("sounds/808congalo.wav");
       congalo.play();
     break;
 
     case "u":
-      var congamid = new Audio("sounds/808congamid.WAV");
+      var congamid = new Audio("sounds/808congamid.wav");
       congamid.play();
     break;
 
     case "i":
-      var congahi = new Audio("sounds/808congahi.WAV");
+      var congahi = new Audio("sounds/808congahi.wav");
       congahi.play();
     break;
 
     case "o":
-      var rimshot = new Audio("sounds/808rimshot.WAV");
+      var rimshot = new Audio("sounds/808rimshot.wav");
       rimshot.play();
     break;
 
     case "p":
-      var clave = new Audio("sounds/808clave.WAV");
+      var clave = new Audio("sounds/808clave.wav");
       clave.play();
     break;
 
     case "a":
-      var clap = new Audio("sounds/808clap.WAV");
+      var clap = new Audio("sounds/808clap.wav");
       clap.play();
     break;
 
     case "s":
-      var maracas = new Audio("sounds/808maracas.WAV");
+      var maracas = new Audio("sounds/808maracas.wav");
       maracas.play();
     break;
 
     case "d":
-      var cowbell = new Audio("sounds/808cowbell.WAV");
+      var cowbell = new Audio("sounds/808cowbell.wav");
       cowbell.play();
     break;
 
     case "f":
-      var cymbal = new Audio("sounds/808cymbal.WAV");
+      var cymbal = new Audio("sounds/808cymbal.wav");
       cymbal.play();
     break;
 
     case "g":
-      var hho = new Audio("sounds/808hho.WAV");
+      var hho = new Audio("sounds/808hho.wav");
       hho.play();
     break;
 
     case "h":
-      var hhc = new Audio("sounds/808hhc.WAV");
+      var hhc = new Audio("sounds/808hhc.wav");
       hhc.play();
     break;
 
